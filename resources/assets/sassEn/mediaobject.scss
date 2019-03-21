@@ -1,0 +1,28 @@
+﻿.media {
+    margin-bottom: 25px;
+
+    .media-body {
+        color: #777;
+        font-size: 13px;
+        vertical-align: middle;
+        position: relative;
+
+        .media-heading {
+            font-size: 14px;
+            font-weight: bold;
+            color: #333;
+        }
+        .type{
+            text-decoration: none;
+            margin: 0;
+        }
+        .type:hover{
+            text-decoration: none;
+        }
+        .media-mark {
+            font-size: 12px;
+            font-weight: bold;
+            color: #333;
+        }
+    }
+}

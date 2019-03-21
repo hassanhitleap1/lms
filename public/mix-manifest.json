@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/appEn.css": "/css/appEn.css",
+    "/css/appAr.css": "/css/appAr.css",
+    "/css/lessonviewerEn.css": "/css/lessonviewerEn.css",
+    "/css/lessonviewerAr.css": "/css/lessonviewerAr.css",
+    "/js/librarys.js": "/js/librarys.js",
+    "/js/frontend.js": "/js/frontend.js",
+    "/js/lessonlibrarys.js": "/js/lessonlibrarys.js",
+    "/js/lessonviewer.js": "/js/lessonviewer.js",
+    "/js/homeworkviwer.js": "/js/homeworkviwer.js",
+    "/js/quizviwer.js": "/js/quizviwer.js"
+}
